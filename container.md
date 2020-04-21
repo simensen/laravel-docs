@@ -147,7 +147,7 @@ You can also specify an array of class names to be resolved by the container whe
                   NullFilter::class,
                   ProfanityFilter::class,
                   TooLongFilter::class,
-              ]});
+              ]);
 
 <a name="binding-interfaces-to-implementations"></a>
 ### Binding Interfaces To Implementations
